@@ -1,4 +1,4 @@
-# property-scraping
+# Magic_estate
 A Python web scraping project that gets real estate data from Magic Bricks
 
 DESCRIPTION:
